@@ -1,0 +1,31 @@
+.user-row {
+    background-color: #f2f2f2;
+    border: 1px solid #ccc;
+}
+
+.user-row:hover {
+    background-color: #e6e6e6;
+}
+
+.user-id,
+.user-name,
+.user-email,
+.user-address {
+    padding: 10px;
+}
+
+.user-id {
+    width: 50px;
+}
+
+.user-name {
+    width: 150px;
+}
+
+.user-email {
+    width: 200px;
+}
+
+.user-address {
+    width: 300px;
+}
